@@ -6,7 +6,7 @@
 
 ## O que é
 
-**Empresa no ChatGPT** é um kit grátis para você reivindicar o perfil da sua empresa na **Central de Negócios do ChatGPT** (o "Business Hub", lançado pela OpenAI em novembro de 2026), igual ao perfil de empresa do Google. Serve para quem tem loja, consultório, escritório ou vende pela internet. Traz o teste do que o ChatGPT diz de você hoje, a ficha para preencher, as dicas do que deu errado com a gente e um pedido pronto para um agente de IA fazer o cadastro no seu navegador. Precisa só de uma conta do ChatGPT, mesmo a grátis.
+**Empresa no ChatGPT** é um kit grátis para você reivindicar o perfil da sua empresa na **Central de Negócios do ChatGPT** (o "Business Hub", lançado pela OpenAI em novembro de 2026), igual ao perfil de empresa do Google. Serve para quem tem loja, consultório, escritório ou vende pela internet. Traz o teste do que o ChatGPT diz de você hoje, a ficha para preencher, as dicas do que deu errado com a gente e um pedido pronto para um agente de IA fazer o cadastro no seu navegador. À mão, precisa só de uma conta do ChatGPT, mesmo a grátis, e é de graça. O caminho com o agente é opcional e usa o Claude Code (Anthropic), que pede um plano pago do Claude e um computador com o Chrome.
 
 **Você pode recuperar sua empresa no ChatGPT.** Hoje, quem responde por ela é o que ele achou por aí. Quando procuramos "INEMA", ele mostrou o instituto do meio ambiente da Bahia, com 6 endereços. Nenhum era o nosso.
 
@@ -22,7 +22,7 @@ Guia completo (landing + passo a passo, com as telas reais): **https://inematds.
 
 ## Peça para o agente fazer (o pedido)
 
-Cole no Claude Code com a extensão Claude in Chrome (ele usa o seu navegador já logado). O pedido completo e o que o agente fez no nosso caso estão em [`automatico/PEDIDO-AGENTE.md`](automatico/PEDIDO-AGENTE.md).
+Opcional e pago à parte: cole no [Claude Code](https://claude.com/claude-code) com a extensão [Claude in Chrome](https://claude.com/claude-in-chrome) (ele usa o seu navegador já logado; pede um plano pago do Claude). Sem agente, siga os 3 passos acima à mão, de graça. O pedido completo e o que o agente fez no nosso caso estão em [`automatico/PEDIDO-AGENTE.md`](automatico/PEDIDO-AGENTE.md).
 
 ```text
 Quero cadastrar a minha empresa no ChatGPT (Central de Negócios, chatgpt.com/business-hub).

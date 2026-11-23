@@ -4,6 +4,8 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
+🎬 Vídeo: https://www.youtube.com/watch?v=b76_IUEDREU
+
 ## What it is
 
 **Business on ChatGPT** is a free kit to help you claim your company profile in the **ChatGPT Business Hub** (launched by OpenAI in November 2026), similar to a Google Business Profile. It’s for anyone with a shop, clinic, office, or online business. The kit includes a test to see what ChatGPT says about you today, a form to fill out, tips on what went wrong for us, and a ready-to-use prompt for an AI agent to register your business in your browser. To do it yourself, you only need a ChatGPT account—even a free one—and it costs nothing. The agent-assisted option is optional and uses Claude Code (Anthropic), which requires a paid Claude plan and a computer with Chrome.

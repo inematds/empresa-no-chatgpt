@@ -4,6 +4,8 @@
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
 
+🎬 Vídeo: https://www.youtube.com/watch?v=b76_IUEDREU
+
 ## O que é
 
 **Empresa no ChatGPT** é um kit grátis para você reivindicar o perfil da sua empresa na **Central de Negócios do ChatGPT** (o "Business Hub", lançado pela OpenAI em novembro de 2026), igual ao perfil de empresa do Google. Serve para quem tem loja, consultório, escritório ou vende pela internet. Traz o teste do que o ChatGPT diz de você hoje, a ficha para preencher, as dicas do que deu errado com a gente e um pedido pronto para um agente de IA fazer o cadastro no seu navegador. À mão, precisa só de uma conta do ChatGPT, mesmo a grátis, e é de graça. O caminho com o agente é opcional e usa o Claude Code (Anthropic), que pede um plano pago do Claude e um computador com o Chrome.
